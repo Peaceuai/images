@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T06:04:55.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="D4yM9yCloJrCV1cDDQLo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T06:15:14.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="hB-7D8pBqubipfgZOkAh" type="github">
   <diagram id="8pcgxeIvqp9WtQEUAlKM" name="第 1 页">
     <mxGraphModel dx="724" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,21 @@
         </mxCell>
         <mxCell id="5fME6CRtCwqH7mgVArVT-16" value="帮助用户充值到第三方服务商中，用于监控中心使用" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fME6CRtCwqH7mgVArVT-17" value="项目代码存储及提交规范" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="35" y="560" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5fME6CRtCwqH7mgVArVT-18" value="项目代码使用Gitee存储" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fME6CRtCwqH7mgVArVT-19" value="develop分支和master分支不能碰" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5fME6CRtCwqH7mgVArVT-20" value="新需求需要在develop分支开新分支，分支例如是hello_world_20230119分支需要放在feature目录下" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="577.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5fME6CRtCwqH7mgVArVT-21" value="本地测试没问题，提交需求让负责人合并代码，发版上线" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="750" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
